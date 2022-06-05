@@ -1,6 +1,7 @@
 package RandomNumberGame;
 
 import java.util.Scanner;
+// new comment added
 
 public class Main {
 //edited by ashwini
